@@ -17,7 +17,6 @@ A API foi desenvolvida utilizando o framework Laravel, implementando autenticaç
 - PHP >= 8.1
 - Composer
 - Banco de Dados SQL Server
-- ODBC Driver 17 for SQL Server
 - Laravel Framework
 
 ---
