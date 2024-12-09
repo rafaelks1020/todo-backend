@@ -66,13 +66,7 @@ A API foi desenvolvida utilizando o framework Laravel, implementando autenticaç
    php artisan migrate
    ```
 
-6. **Popule o Banco de Dados (Opcional)**:
-
-   ```
-   php artisan db:seed
-   ```
-
-7. **Inicie o Servidor de Desenvolvimento**:
+6. **Inicie o Servidor de Desenvolvimento**:
    ```
    php artisan serve
    ```
@@ -102,14 +96,7 @@ O frontend foi desenvolvido com VueJS e implementa funcionalidades de interface 
    yarn install
    ```
 
-2. **Configure as Variáveis de Ambiente**:
-   Crie um arquivo `.env` na raiz do projeto e configure:
-
-   ```
-   VITE_API_URL=http://localhost:8000/api
-   ```
-
-3. **Inicie o Servidor de Desenvolvimento**:
+2. **Inicie o Servidor de Desenvolvimento**:
    ```
    yarn dev
    ```
