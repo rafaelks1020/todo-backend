@@ -26,7 +26,7 @@ A API foi desenvolvida utilizando o framework Laravel, implementando autenticaç
 1. **Instale as Dependências**:
 
    ```
-   composer install
+   composer install *Se necessário rodar composer update*
    ```
 
 2. **Configure o Arquivo `.env`**:
