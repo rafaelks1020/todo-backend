@@ -72,58 +72,6 @@ A API foi desenvolvida utilizando o framework Laravel, implementando autenticaç
    ```
 
 ---
-
-## Frontend (VueJS)
-
-### Descrição
-
-O frontend foi desenvolvido com VueJS e implementa funcionalidades de interface para o gerenciamento de tarefas.
-
----
-
-### Requisitos
-
-- Node.js >= 16
-- Yarn >= 1.22
-
----
-
-### Configuração do Ambiente
-
-1. **Instale as Dependências**:
-
-   ```
-   yarn install
-   ```
-
-2. **Inicie o Servidor de Desenvolvimento**:
-   ```
-   yarn dev
-   ```
-
----
-
-## Funcionalidades
-
-1. **Página de Login**
-
-   - Login com autenticação JWT.
-   - Validação de credenciais.
-
-2. **Página de Registro**
-
-   - Cadastro de novos usuários com senha criptografada.
-
-3. **Página Principal**
-
-   - Listagem de tarefas com paginação.
-   - Adicionar, editar, marcar como concluída ou excluir tarefas.
-
-4. **Modais**
-   - Modal para adição e edição de tarefas com suporte a texto formatado.
-
----
-
 ## Testes
 
 ### Backend
